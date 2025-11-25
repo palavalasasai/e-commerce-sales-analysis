@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Customer_Name,City,State,Product,Category,Unit_Price,Quantity,Sales,Discount(%),Profit,Payment_Method,Courier,Order_Status
+ORD1000,2023-01-01,2023-01-04,CUST500,Fatima,Chennai,Maharashtra,Camera,Electronics,18771,1,18771,5,3800.97,Debit Card,Delhivery,Delivered
+ORD1001,2023-01-02,2023-01-06,CUST501,Hari,Delhi,Tamil Nadu,Laptop,Electronics,36534,4,146136,5,36291.03,Debit Card,Delhivery,Returned
+ORD1002,2023-01-03,2023-01-04,CUST502,Fatima,Hyderabad,Karnataka,Shoes,Fashion,33934,3,101802,10,24408.98,Credit Card,Delhivery,Returned
+ORD1003,2023-01-04,2023-01-07,CUST503,Arif,Chennai,Tamil Nadu,Laptop,Electronics,4688,1,4688,5,846.23,Net Banking,Delhivery,Returned
+ORD1004,2023-01-05,2023-01-08,CUST504,John,Pune,Maharashtra,Laptop,Electronics,10661,1,10661,10,1530.97,Debit Card,BlueDart,Returned
+ORD1005,2023-01-06,2023-01-10,CUST505,Megha,Chennai,Maharashtra,Laptop,Electronics,29232,2,58464,5,13388.89,Cash on Delivery,Delhivery,Delivered
+ORD1006,2023-01-07,2023-01-08,CUST506,Hari,Pune,Karnataka,Camera,Electronics,11814,4,47256,10,8711.21,Credit Card,Delhivery,Cancelled
+ORD1007,2023-01-08,2023-01-09,CUST507,John,Delhi,Tamil Nadu,Watch,Accessories,24454,2,48908,0,6184.67,Credit Card,XpressBees,Cancelled
+ORD1008,2023-01-09,2023-01-12,CUST508,Ravi,Pune,Telangana,Camera,Electronics,22008,3,66024,15,18494.28,Cash on Delivery,BlueDart,Cancelled
+ORD1009,2023-01-10,2023-01-12,CUST509,Megha,Hyderabad,Maharashtra,Mobile,Electronics,22469,1,22469,10,5353.11,Net Banking,BlueDart,Cancelled
+ORD1010,2023-01-11,2023-01-14,CUST510,Fatima,Delhi,Maharashtra,Shoes,Fashion,46159,1,46159,10,10922.92,Cash on Delivery,Ekart,Shipped
+ORD1011,2023-01-12,2023-01-15,CUST511,Fatima,Hyderabad,Karnataka,Watch,Accessories,38045,1,38045,15,10063.54,Net Banking,BlueDart,Cancelled
+ORD1012,2023-01-13,2023-01-16,CUST512,Megha,Bangalore,Maharashtra,Watch,Accessories,37168,3,111504,10,22962.28,Cash on Delivery,BlueDart,Shipped
+ORD1013,2023-01-14,2023-01-17,CUST513,Fatima,Mumbai,Maharashtra,Watch,Accessories,23561,3,70683,10,18590.4,Cash on Delivery,Ekart,Shipped
+ORD1014,2023-01-15,2023-01-19,CUST514,Kavya,Pune,Maharashtra,Watch,Accessories,14216,2,28432,5,5675.54,UPI,BlueDart,Returned
+ORD1015,2023-01-16,2023-01-17,CUST515,Megha,Mumbai,Karnataka,Camera,Electronics,40249,2,80498,15,9131.3,Credit Card,BlueDart,Shipped
+ORD1016,2023-01-17,2023-01-21,CUST516,John,Mumbai,Tamil Nadu,Watch,Accessories,39644,2,79288,0,14355.06,Cash on Delivery,BlueDart,Delivered
+ORD1017,2023-01-18,2023-01-22,CUST517,Megha,Pune,Maharashtra,Headphones,Accessories,17407,4,69628,10,13890.3,Cash on Delivery,BlueDart,Shipped
+ORD1018,2023-01-19,2023-01-23,CUST518,Hari,Delhi,Tamil Nadu,Shoes,Fashion,19277,1,19277,15,4704.37,Debit Card,Ekart,Returned
+ORD1019,2023-01-20,2023-01-23,CUST519,Fatima,Bangalore,Maharashtra,Watch,Accessories,28193,1,28193,5,3420.25,Credit Card,BlueDart,Shipped
+ORD1020,2023-01-21,2023-01-23,CUST520,Kavya,Hyderabad,Maharashtra,Shoes,Fashion,43428,2,86856,0,11117.89,Debit Card,BlueDart,Delivered
+ORD1021,2023-01-22,2023-01-23,CUST521,Kavya,Chennai,Delhi,Headphones,Accessories,26829,1,26829,15,4097.77,Credit Card,Ekart,Delivered
+ORD1022,2023-01-23,2023-01-25,CUST522,Ravi,Hyderabad,Maharashtra,Headphones,Accessories,47392,2,94784,0,14530.36,Debit Card,XpressBees,Delivered
+ORD1023,2023-01-24,2023-01-28,CUST523,John,Chennai,Telangana,Shoes,Fashion,16782,4,67128,0,16542.82,Cash on Delivery,Delhivery,Returned
+ORD1024,2023-01-25,2023-01-29,CUST524,Suresh,Hyderabad,Karnataka,Laptop,Electronics,24124,4,96496,0,14488.5,Cash on Delivery,XpressBees,Returned
+ORD1025,2023-01-26,2023-01-28,CUST525,Suresh,Pune,Karnataka,Mobile,Electronics,23821,3,71463,10,16194.92,UPI,Ekart,Cancelled
+ORD1026,2023-01-27,2023-01-29,CUST526,Megha,Bangalore,Tamil Nadu,Laptop,Electronics,10988,4,43952,10,8740.06,Debit Card,Delhivery,Returned
+ORD1027,2023-01-28,2023-01-30,CUST527,Ravi,Chennai,Maharashtra,Laptop,Electronics,23074,2,46148,5,9906.08,Net Banking,Ekart,Delivered
+ORD1028,2023-01-29,2023-02-02,CUST528,Arif,Delhi,Telangana,Camera,Electronics,5740,4,22960,5,6144.59,UPI,Ekart,Delivered
+ORD1029,2023-01-30,2023-02-03,CUST529,Megha,Hyderabad,Tamil Nadu,Laptop,Electronics,43721,3,131163,15,23724.28,Debit Card,BlueDart,Returned
+ORD1030,2023-01-31,2023-02-01,CUST530,Ravi,Hyderabad,Delhi,Watch,Accessories,10978,1,10978,5,2790.41,Debit Card,Delhivery,Shipped
+ORD1031,2023-02-01,2023-02-02,CUST531,John,Chennai,Tamil Nadu,Camera,Electronics,45662,2,91324,0,16840.8,UPI,BlueDart,Returned
+ORD1032,2023-02-02,2023-02-06,CUST532,John,Delhi,Tamil Nadu,Camera,Electronics,19762,1,19762,0,3374.84,Cash on Delivery,Delhivery,Returned
+ORD1033,2023-02-03,2023-02-05,CUST533,John,Delhi,Maharashtra,Headphones,Accessories,4932,3,14796,10,4316.37,Debit Card,Ekart,Delivered
+ORD1034,2023-02-04,2023-02-06,CUST534,John,Pune,Delhi,Laptop,Electronics,30221,3,90663,0,12409.42,Cash on Delivery,Ekart,Cancelled
+ORD1035,2023-02-05,2023-02-06,CUST535,John,Pune,Tamil Nadu,Headphones,Accessories,14068,3,42204,15,4982.92,UPI,XpressBees,Delivered
+ORD1036,2023-02-06,2023-02-10,CUST536,Ravi,Pune,Telangana,Shoes,Fashion,14678,1,14678,0,3731.11,Cash on Delivery,Delhivery,Cancelled
+ORD1037,2023-02-07,2023-02-08,CUST537,Ravi,Pune,Telangana,Mobile,Electronics,22695,1,22695,0,2579.29,Credit Card,BlueDart,Delivered
+ORD1038,2023-02-08,2023-02-09,CUST538,Kavya,Pune,Karnataka,Camera,Electronics,802,1,802,15,214.47,Net Banking,XpressBees,Returned
+ORD1039,2023-02-09,2023-02-12,CUST539,Hari,Pune,Delhi,Shoes,Fashion,17522,1,17522,5,3284.3,Debit Card,XpressBees,Delivered
+ORD1040,2023-02-10,2023-02-13,CUST540,Suresh,Bangalore,Delhi,Shoes,Fashion,555,3,1665,5,471.37,Net Banking,XpressBees,Delivered
+ORD1041,2023-02-11,2023-02-14,CUST541,Fatima,Delhi,Karnataka,Watch,Accessories,46281,3,138843,15,33920.26,Cash on Delivery,BlueDart,Delivered
+ORD1042,2023-02-12,2023-02-14,CUST542,John,Pune,Tamil Nadu,Mobile,Electronics,9217,2,18434,10,4093.84,Debit Card,XpressBees,Returned
+ORD1043,2023-02-13,2023-02-17,CUST543,Arif,Delhi,Delhi,Shoes,Fashion,29199,2,58398,0,16927.32,Cash on Delivery,BlueDart,Returned
+ORD1044,2023-02-14,2023-02-18,CUST544,Fatima,Delhi,Telangana,Shoes,Fashion,8650,1,8650,15,1551.2,Credit Card,XpressBees,Returned
+ORD1045,2023-02-15,2023-02-19,CUST545,Ravi,Mumbai,Telangana,Mobile,Electronics,2625,4,10500,0,3053.58,UPI,BlueDart,Returned
+ORD1046,2023-02-16,2023-02-20,CUST546,Arif,Bangalore,Maharashtra,Mobile,Electronics,44747,4,178988,10,22731.52,Debit Card,Ekart,Cancelled
+ORD1047,2023-02-17,2023-02-20,CUST547,Arif,Pune,Delhi,Shoes,Fashion,49013,3,147039,0,28930.07,Credit Card,Ekart,Cancelled
+ORD1048,2023-02-18,2023-02-20,CUST548,Arif,Hyderabad,Tamil Nadu,Mobile,Electronics,17248,3,51744,15,7967.66,Credit Card,Ekart,Shipped
+ORD1049,2023-02-19,2023-02-21,CUST549,Kavya,Chennai,Karnataka,Shoes,Fashion,40077,3,120231,0,25004.27,Debit Card,Ekart,Returned
+ORD1050,2023-02-20,2023-02-23,CUST550,Ravi,Hyderabad,Karnataka,Shoes,Fashion,5121,2,10242,5,1356.07,Cash on Delivery,Ekart,Cancelled
+ORD1051,2023-02-21,2023-02-23,CUST551,Arif,Bangalore,Tamil Nadu,Watch,Accessories,15534,2,31068,10,8335.73,Credit Card,XpressBees,Delivered
+ORD1052,2023-02-22,2023-02-25,CUST552,John,Chennai,Maharashtra,Laptop,Electronics,46891,3,140673,10,37880.65,Net Banking,XpressBees,Returned
+ORD1053,2023-02-23,2023-02-27,CUST553,Megha,Bangalore,Maharashtra,Shoes,Fashion,5626,3,16878,10,4912.3,Credit Card,XpressBees,Shipped
+ORD1054,2023-02-24,2023-02-27,CUST554,Arif,Delhi,Karnataka,Headphones,Accessories,5622,3,16866,15,2208.34,Cash on Delivery,BlueDart,Shipped
+ORD1055,2023-02-25,2023-03-01,CUST555,Kavya,Chennai,Delhi,Camera,Electronics,18530,4,74120,10,16652.28,Cash on Delivery,BlueDart,Shipped
+ORD1056,2023-02-26,2023-03-02,CUST556,Fatima,Delhi,Maharashtra,Laptop,Electronics,17802,2,35604,5,6937.35,Net Banking,BlueDart,Delivered
+ORD1057,2023-02-27,2023-02-28,CUST557,Ravi,Hyderabad,Delhi,Laptop,Electronics,19681,4,78724,15,13294.65,Credit Card,BlueDart,Cancelled
+ORD1058,2023-02-28,2023-03-03,CUST558,Hari,Hyderabad,Telangana,Laptop,Electronics,39138,4,156552,5,26662.06,Cash on Delivery,Ekart,Delivered
+ORD1059,2023-03-01,2023-03-02,CUST559,Kavya,Chennai,Maharashtra,Watch,Accessories,2031,3,6093,0,1112.33,Debit Card,Ekart,Returned
+ORD1060,2023-03-02,2023-03-05,CUST560,Arif,Chennai,Karnataka,Shoes,Fashion,41440,3,124320,0,29959.27,UPI,Ekart,Shipped
+ORD1061,2023-03-03,2023-03-06,CUST561,Ravi,Pune,Maharashtra,Watch,Accessories,40941,1,40941,0,8992.99,UPI,Delhivery,Delivered
+ORD1062,2023-03-04,2023-03-05,CUST562,Megha,Bangalore,Maharashtra,Shoes,Fashion,23833,1,23833,0,4574.42,UPI,XpressBees,Delivered
+ORD1063,2023-03-05,2023-03-06,CUST563,Arif,Pune,Maharashtra,Watch,Accessories,40150,4,160600,5,18498.98,Credit Card,BlueDart,Cancelled
+ORD1064,2023-03-06,2023-03-09,CUST564,Kavya,Bangalore,Maharashtra,Watch,Accessories,35174,2,70348,15,8128.93,Net Banking,BlueDart,Cancelled
+ORD1065,2023-03-07,2023-03-09,CUST565,Suresh,Pune,Maharashtra,Camera,Electronics,36354,3,109062,15,10957.23,Cash on Delivery,Ekart,Shipped
+ORD1066,2023-03-08,2023-03-12,CUST566,John,Delhi,Delhi,Headphones,Accessories,46771,3,140313,10,41187.46,Debit Card,BlueDart,Delivered
+ORD1067,2023-03-09,2023-03-10,CUST567,Hari,Chennai,Telangana,Watch,Accessories,8652,4,34608,5,3497.16,Debit Card,BlueDart,Delivered
+ORD1068,2023-03-10,2023-03-14,CUST568,Fatima,Hyderabad,Tamil Nadu,Camera,Electronics,39018,1,39018,0,4706.3,Credit Card,XpressBees,Cancelled
+ORD1069,2023-03-11,2023-03-13,CUST569,Kavya,Bangalore,Maharashtra,Mobile,Electronics,46040,2,92080,5,15001.61,UPI,Ekart,Delivered
+ORD1070,2023-03-12,2023-03-14,CUST570,Ravi,Bangalore,Karnataka,Headphones,Accessories,10767,1,10767,10,2815.42,Credit Card,XpressBees,Delivered
+ORD1071,2023-03-13,2023-03-15,CUST571,Hari,Hyderabad,Maharashtra,Watch,Accessories,25789,1,25789,10,7541.21,Net Banking,Delhivery,Delivered
+ORD1072,2023-03-14,2023-03-15,CUST572,Hari,Pune,Karnataka,Laptop,Electronics,1562,1,1562,5,403.0,Net Banking,Delhivery,Cancelled
+ORD1073,2023-03-15,2023-03-17,CUST573,Hari,Bangalore,Delhi,Mobile,Electronics,30426,1,30426,5,7244.8,Cash on Delivery,Delhivery,Shipped
+ORD1074,2023-03-16,2023-03-17,CUST574,Arif,Delhi,Karnataka,Mobile,Electronics,6729,3,20187,5,4123.4,Cash on Delivery,Ekart,Returned
+ORD1075,2023-03-17,2023-03-19,CUST575,John,Chennai,Tamil Nadu,Camera,Electronics,49777,3,149331,15,17522.66,Net Banking,BlueDart,Shipped
+ORD1076,2023-03-18,2023-03-22,CUST576,Arif,Hyderabad,Telangana,Mobile,Electronics,48415,1,48415,0,14119.47,Net Banking,Ekart,Returned
+ORD1077,2023-03-19,2023-03-23,CUST577,Ravi,Chennai,Karnataka,Headphones,Accessories,5132,2,10264,5,2583.23,Net Banking,Ekart,Delivered
+ORD1078,2023-03-20,2023-03-23,CUST578,Arif,Bangalore,Karnataka,Watch,Accessories,39556,4,158224,5,36041.83,Credit Card,BlueDart,Shipped
+ORD1079,2023-03-21,2023-03-25,CUST579,Suresh,Bangalore,Telangana,Watch,Accessories,4096,2,8192,5,2062.8,Net Banking,XpressBees,Returned
+ORD1080,2023-03-22,2023-03-25,CUST580,John,Hyderabad,Tamil Nadu,Laptop,Electronics,44743,2,89486,10,21908.02,Debit Card,Delhivery,Cancelled
+ORD1081,2023-03-23,2023-03-27,CUST581,John,Delhi,Maharashtra,Camera,Electronics,6668,2,13336,10,3033.22,UPI,XpressBees,Cancelled
+ORD1082,2023-03-24,2023-03-25,CUST582,Ravi,Mumbai,Karnataka,Laptop,Electronics,43063,1,43063,15,12751.62,Net Banking,Delhivery,Shipped
+ORD1083,2023-03-25,2023-03-29,CUST583,Fatima,Hyderabad,Telangana,Mobile,Electronics,8061,3,24183,0,6787.51,UPI,Ekart,Shipped
+ORD1084,2023-03-26,2023-03-29,CUST584,Suresh,Mumbai,Delhi,Laptop,Electronics,8758,2,17516,15,4017.0,Credit Card,Delhivery,Delivered
+ORD1085,2023-03-27,2023-03-30,CUST585,Kavya,Pune,Telangana,Headphones,Accessories,17116,1,17116,0,4084.48,UPI,Ekart,Shipped
+ORD1086,2023-03-28,2023-03-30,CUST586,Arif,Mumbai,Delhi,Watch,Accessories,27234,2,54468,10,6008.86,Credit Card,XpressBees,Delivered
+ORD1087,2023-03-29,2023-03-30,CUST587,Megha,Delhi,Tamil Nadu,Mobile,Electronics,6871,2,13742,10,3215.4,Debit Card,Ekart,Delivered
+ORD1088,2023-03-30,2023-04-03,CUST588,Arif,Pune,Maharashtra,Laptop,Electronics,26569,1,26569,10,2891.59,Credit Card,XpressBees,Cancelled
+ORD1089,2023-03-31,2023-04-02,CUST589,Hari,Mumbai,Telangana,Camera,Electronics,14869,3,44607,15,9708.84,Credit Card,BlueDart,Cancelled
+ORD1090,2023-04-01,2023-04-05,CUST590,Arif,Pune,Maharashtra,Headphones,Accessories,13410,3,40230,5,12063.8,Cash on Delivery,BlueDart,Returned
+ORD1091,2023-04-02,2023-04-06,CUST591,Kavya,Mumbai,Karnataka,Headphones,Accessories,8443,4,33772,5,7131.34,Net Banking,BlueDart,Cancelled
+ORD1092,2023-04-03,2023-04-05,CUST592,Arif,Delhi,Tamil Nadu,Laptop,Electronics,12699,1,12699,10,2471.76,Net Banking,Ekart,Cancelled
+ORD1093,2023-04-04,2023-04-06,CUST593,Suresh,Mumbai,Telangana,Watch,Accessories,16228,4,64912,5,10552.81,Debit Card,BlueDart,Shipped
+ORD1094,2023-04-05,2023-04-07,CUST594,Suresh,Mumbai,Karnataka,Laptop,Electronics,23775,4,95100,5,11802.34,Debit Card,Delhivery,Cancelled
+ORD1095,2023-04-06,2023-04-08,CUST595,John,Mumbai,Telangana,Mobile,Electronics,7238,4,28952,15,7128.12,Net Banking,XpressBees,Returned
+ORD1096,2023-04-07,2023-04-09,CUST596,Ravi,Hyderabad,Delhi,Laptop,Electronics,16413,3,49239,0,6820.58,Cash on Delivery,XpressBees,Shipped
+ORD1097,2023-04-08,2023-04-12,CUST597,Fatima,Hyderabad,Telangana,Headphones,Accessories,35740,1,35740,10,4398.04,Net Banking,Delhivery,Returned
+ORD1098,2023-04-09,2023-04-11,CUST598,Megha,Hyderabad,Maharashtra,Laptop,Electronics,19623,4,78492,10,14470.2,Cash on Delivery,Ekart,Cancelled
+ORD1099,2023-04-10,2023-04-11,CUST599,Hari,Delhi,Telangana,Watch,Accessories,48947,1,48947,15,12680.62,Debit Card,Ekart,Returned
+ORD1100,2023-04-11,2023-04-14,CUST600,Arif,Pune,Telangana,Camera,Electronics,35029,1,35029,15,8722.67,UPI,XpressBees,Shipped
+ORD1101,2023-04-12,2023-04-14,CUST601,Arif,Bangalore,Maharashtra,Shoes,Fashion,10667,3,32001,5,3551.36,Debit Card,BlueDart,Delivered
+ORD1102,2023-04-13,2023-04-15,CUST602,Kavya,Mumbai,Tamil Nadu,Laptop,Electronics,11054,4,44216,10,8446.53,Debit Card,Ekart,Returned
+ORD1103,2023-04-14,2023-04-18,CUST603,Ravi,Mumbai,Telangana,Watch,Accessories,17760,4,71040,0,14526.75,Credit Card,Ekart,Returned
+ORD1104,2023-04-15,2023-04-17,CUST604,Suresh,Delhi,Maharashtra,Watch,Accessories,47545,1,47545,15,10883.49,Credit Card,Delhivery,Shipped
+ORD1105,2023-04-16,2023-04-18,CUST605,Megha,Mumbai,Karnataka,Camera,Electronics,4312,2,8624,0,1983.81,Credit Card,Delhivery,Shipped
+ORD1106,2023-04-17,2023-04-19,CUST606,John,Hyderabad,Delhi,Headphones,Accessories,28524,3,85572,0,14798.77,Credit Card,BlueDart,Returned
+ORD1107,2023-04-18,2023-04-22,CUST607,Suresh,Bangalore,Delhi,Watch,Accessories,27785,3,83355,10,17682.55,Cash on Delivery,Ekart,Cancelled
+ORD1108,2023-04-19,2023-04-21,CUST608,Hari,Chennai,Telangana,Watch,Accessories,27400,3,82200,10,16128.66,Net Banking,Ekart,Returned
+ORD1109,2023-04-20,2023-04-23,CUST609,Ravi,Mumbai,Tamil Nadu,Watch,Accessories,2105,3,6315,15,1749.25,UPI,Delhivery,Shipped
+ORD1110,2023-04-21,2023-04-25,CUST610,Hari,Hyderabad,Tamil Nadu,Watch,Accessories,6122,4,24488,10,5045.83,Debit Card,Ekart,Delivered
+ORD1111,2023-04-22,2023-04-25,CUST611,Fatima,Chennai,Karnataka,Mobile,Electronics,7267,4,29068,10,5470.78,Cash on Delivery,XpressBees,Delivered
+ORD1112,2023-04-23,2023-04-27,CUST612,John,Bangalore,Telangana,Mobile,Electronics,27639,2,55278,10,9999.63,UPI,Delhivery,Cancelled
+ORD1113,2023-04-24,2023-04-26,CUST613,Fatima,Chennai,Delhi,Headphones,Accessories,12113,3,36339,0,7794.19,Cash on Delivery,BlueDart,Returned
+ORD1114,2023-04-25,2023-04-28,CUST614,Kavya,Hyderabad,Tamil Nadu,Laptop,Electronics,11089,3,33267,15,8675.88,Cash on Delivery,Delhivery,Delivered
+ORD1115,2023-04-26,2023-04-30,CUST615,Hari,Pune,Telangana,Watch,Accessories,14418,1,14418,5,2994.33,Debit Card,Ekart,Returned
+ORD1116,2023-04-27,2023-04-28,CUST616,Kavya,Pune,Tamil Nadu,Camera,Electronics,20619,4,82476,0,19161.73,Net Banking,BlueDart,Shipped
+ORD1117,2023-04-28,2023-04-30,CUST617,Arif,Chennai,Maharashtra,Laptop,Electronics,27946,3,83838,10,20755.87,Credit Card,Delhivery,Delivered
+ORD1118,2023-04-29,2023-05-03,CUST618,Fatima,Delhi,Tamil Nadu,Camera,Electronics,13546,2,27092,0,5527.68,Net Banking,XpressBees,Cancelled
+ORD1119,2023-04-30,2023-05-01,CUST619,Ravi,Chennai,Delhi,Laptop,Electronics,25318,2,50636,10,9386.06,Debit Card,XpressBees,Shipped
+ORD1120,2023-05-01,2023-05-05,CUST620,Hari,Mumbai,Maharashtra,Headphones,Accessories,35858,4,143432,10,39491.57,Debit Card,Delhivery,Cancelled
+ORD1121,2023-05-02,2023-05-03,CUST621,Megha,Mumbai,Karnataka,Watch,Accessories,4824,2,9648,0,1770.42,Debit Card,XpressBees,Shipped
+ORD1122,2023-05-03,2023-05-05,CUST622,John,Pune,Karnataka,Watch,Accessories,11287,2,22574,15,4342.98,UPI,XpressBees,Delivered
+ORD1123,2023-05-04,2023-05-07,CUST623,Suresh,Delhi,Delhi,Shoes,Fashion,9611,4,38444,10,11458.94,Net Banking,XpressBees,Cancelled
+ORD1124,2023-05-05,2023-05-06,CUST624,Ravi,Hyderabad,Tamil Nadu,Camera,Electronics,38610,3,115830,15,11588.5,Net Banking,BlueDart,Cancelled
+ORD1125,2023-05-06,2023-05-10,CUST625,Ravi,Mumbai,Telangana,Laptop,Electronics,16889,3,50667,5,6946.17,Cash on Delivery,XpressBees,Shipped
+ORD1126,2023-05-07,2023-05-09,CUST626,Kavya,Pune,Tamil Nadu,Laptop,Electronics,41927,2,83854,10,14824.78,Cash on Delivery,XpressBees,Cancelled
+ORD1127,2023-05-08,2023-05-09,CUST627,Fatima,Bangalore,Delhi,Mobile,Electronics,14543,2,29086,15,8333.66,Cash on Delivery,XpressBees,Shipped
+ORD1128,2023-05-09,2023-05-13,CUST628,Hari,Pune,Karnataka,Shoes,Fashion,29246,3,87738,15,10002.65,Debit Card,BlueDart,Shipped
+ORD1129,2023-05-10,2023-05-14,CUST629,Hari,Mumbai,Tamil Nadu,Mobile,Electronics,22850,4,91400,5,9313.39,Net Banking,Delhivery,Shipped
+ORD1130,2023-05-11,2023-05-15,CUST630,Arif,Mumbai,Karnataka,Mobile,Electronics,42105,2,84210,15,9308.3,Debit Card,Ekart,Shipped
+ORD1131,2023-05-12,2023-05-13,CUST631,Arif,Pune,Telangana,Mobile,Electronics,617,1,617,15,72.63,UPI,XpressBees,Delivered
+ORD1132,2023-05-13,2023-05-14,CUST632,John,Hyderabad,Karnataka,Camera,Electronics,47185,4,188740,5,20293.2,Cash on Delivery,Delhivery,Shipped
+ORD1133,2023-05-14,2023-05-15,CUST633,Kavya,Chennai,Karnataka,Camera,Electronics,19435,2,38870,10,7616.82,Debit Card,XpressBees,Returned
+ORD1134,2023-05-15,2023-05-18,CUST634,Ravi,Mumbai,Maharashtra,Headphones,Accessories,47577,2,95154,15,20567.67,Debit Card,BlueDart,Cancelled
+ORD1135,2023-05-16,2023-05-17,CUST635,Hari,Pune,Maharashtra,Headphones,Accessories,13734,1,13734,15,2119.67,UPI,Delhivery,Returned
+ORD1136,2023-05-17,2023-05-18,CUST636,Megha,Pune,Maharashtra,Mobile,Electronics,38828,1,38828,15,6975.74,Credit Card,BlueDart,Delivered
+ORD1137,2023-05-18,2023-05-19,CUST637,Kavya,Delhi,Maharashtra,Shoes,Fashion,1346,3,4038,0,477.86,Net Banking,XpressBees,Returned
+ORD1138,2023-05-19,2023-05-22,CUST638,John,Chennai,Karnataka,Laptop,Electronics,11454,4,45816,5,7663.83,Credit Card,XpressBees,Cancelled
+ORD1139,2023-05-20,2023-05-21,CUST639,John,Bangalore,Delhi,Camera,Electronics,14203,4,56812,0,11618.27,Cash on Delivery,BlueDart,Returned
+ORD1140,2023-05-21,2023-05-25,CUST640,Kavya,Hyderabad,Karnataka,Shoes,Fashion,48653,3,145959,5,35972.23,Debit Card,Ekart,Delivered
+ORD1141,2023-05-22,2023-05-23,CUST641,John,Bangalore,Delhi,Watch,Accessories,47014,4,188056,10,18931.46,UPI,BlueDart,Shipped
+ORD1142,2023-05-23,2023-05-27,CUST642,Kavya,Chennai,Delhi,Camera,Electronics,23200,4,92800,10,17953.29,UPI,XpressBees,Returned
+ORD1143,2023-05-24,2023-05-28,CUST643,Suresh,Chennai,Maharashtra,Camera,Electronics,32543,4,130172,15,20749.49,Net Banking,BlueDart,Delivered
+ORD1144,2023-05-25,2023-05-29,CUST644,Kavya,Chennai,Tamil Nadu,Headphones,Accessories,6969,4,27876,5,7542.25,Credit Card,Ekart,Delivered
+ORD1145,2023-05-26,2023-05-29,CUST645,Fatima,Bangalore,Telangana,Laptop,Electronics,30605,4,122420,10,29761.61,Net Banking,BlueDart,Cancelled
+ORD1146,2023-05-27,2023-05-30,CUST646,Kavya,Chennai,Maharashtra,Laptop,Electronics,42601,1,42601,5,9279.42,Debit Card,Ekart,Cancelled
+ORD1147,2023-05-28,2023-05-31,CUST647,John,Pune,Maharashtra,Watch,Accessories,26886,4,107544,10,16718.05,Net Banking,Ekart,Returned
+ORD1148,2023-05-29,2023-05-30,CUST648,Hari,Bangalore,Tamil Nadu,Watch,Accessories,49876,1,49876,0,14068.41,UPI,BlueDart,Shipped
+ORD1149,2023-05-30,2023-06-03,CUST649,Fatima,Chennai,Telangana,Camera,Electronics,46087,4,184348,10,20097.64,UPI,BlueDart,Delivered
+ORD1150,2023-05-31,2023-06-03,CUST650,John,Pune,Karnataka,Mobile,Electronics,37476,3,112428,0,13704.24,Cash on Delivery,Delhivery,Returned
+ORD1151,2023-06-01,2023-06-04,CUST651,Arif,Delhi,Maharashtra,Headphones,Accessories,39551,2,79102,10,14105.95,Cash on Delivery,XpressBees,Delivered
+ORD1152,2023-06-02,2023-06-03,CUST652,Arif,Chennai,Maharashtra,Headphones,Accessories,2548,1,2548,15,318.21,Debit Card,Ekart,Delivered
+ORD1153,2023-06-03,2023-06-06,CUST653,Hari,Bangalore,Karnataka,Camera,Electronics,39501,4,158004,0,46023.9,Credit Card,Delhivery,Shipped
+ORD1154,2023-06-04,2023-06-05,CUST654,Hari,Mumbai,Maharashtra,Shoes,Fashion,13441,3,40323,10,10467.76,Net Banking,BlueDart,Shipped
+ORD1155,2023-06-05,2023-06-07,CUST655,Fatima,Chennai,Telangana,Mobile,Electronics,45875,2,91750,15,13927.33,Debit Card,XpressBees,Returned
+ORD1156,2023-06-06,2023-06-09,CUST656,Suresh,Mumbai,Maharashtra,Camera,Electronics,43033,1,43033,0,9368.75,Cash on Delivery,Delhivery,Shipped
+ORD1157,2023-06-07,2023-06-09,CUST657,Hari,Pune,Delhi,Mobile,Electronics,2328,2,4656,15,1380.35,Net Banking,Ekart,Shipped
+ORD1158,2023-06-08,2023-06-09,CUST658,Arif,Delhi,Maharashtra,Mobile,Electronics,2417,3,7251,5,2007.37,Cash on Delivery,Delhivery,Returned
+ORD1159,2023-06-09,2023-06-13,CUST659,Kavya,Hyderabad,Maharashtra,Mobile,Electronics,21118,1,21118,5,4649.33,Net Banking,Ekart,Shipped
+ORD1160,2023-06-10,2023-06-13,CUST660,John,Delhi,Karnataka,Camera,Electronics,32754,2,65508,0,18391.03,Credit Card,BlueDart,Cancelled
+ORD1161,2023-06-11,2023-06-12,CUST661,Arif,Chennai,Karnataka,Headphones,Accessories,40256,4,161024,10,47958.9,Debit Card,XpressBees,Delivered
+ORD1162,2023-06-12,2023-06-16,CUST662,Arif,Mumbai,Karnataka,Headphones,Accessories,47862,1,47862,0,11901.87,Net Banking,XpressBees,Delivered
+ORD1163,2023-06-13,2023-06-17,CUST663,Suresh,Mumbai,Maharashtra,Mobile,Electronics,20628,2,41256,15,4661.82,UPI,XpressBees,Delivered
+ORD1164,2023-06-14,2023-06-16,CUST664,Fatima,Bangalore,Delhi,Shoes,Fashion,46245,3,138735,10,25016.15,UPI,BlueDart,Delivered
+ORD1165,2023-06-15,2023-06-16,CUST665,Fatima,Mumbai,Karnataka,Laptop,Electronics,509,3,1527,5,408.57,Net Banking,Ekart,Returned
+ORD1166,2023-06-16,2023-06-20,CUST666,Ravi,Bangalore,Telangana,Camera,Electronics,17144,1,17144,10,2504.98,Net Banking,BlueDart,Delivered
+ORD1167,2023-06-17,2023-06-20,CUST667,Suresh,Pune,Maharashtra,Laptop,Electronics,22922,2,45844,5,12200.4,Net Banking,XpressBees,Delivered
+ORD1168,2023-06-18,2023-06-21,CUST668,Kavya,Hyderabad,Tamil Nadu,Shoes,Fashion,10365,1,10365,10,1285.96,UPI,BlueDart,Delivered
+ORD1169,2023-06-19,2023-06-21,CUST669,Fatima,Chennai,Telangana,Camera,Electronics,2719,1,2719,10,297.43,UPI,BlueDart,Delivered
+ORD1170,2023-06-20,2023-06-24,CUST670,John,Bangalore,Telangana,Mobile,Electronics,40309,2,80618,10,14254.72,Net Banking,BlueDart,Cancelled
+ORD1171,2023-06-21,2023-06-22,CUST671,Hari,Hyderabad,Karnataka,Headphones,Accessories,5787,2,11574,15,1242.43,Cash on Delivery,Ekart,Delivered
+ORD1172,2023-06-22,2023-06-25,CUST672,Suresh,Mumbai,Tamil Nadu,Laptop,Electronics,34887,4,139548,15,40671.83,Cash on Delivery,Delhivery,Cancelled
+ORD1173,2023-06-23,2023-06-27,CUST673,Hari,Mumbai,Tamil Nadu,Watch,Accessories,9012,2,18024,0,4780.71,Credit Card,Delhivery,Returned
+ORD1174,2023-06-24,2023-06-28,CUST674,Arif,Hyderabad,Maharashtra,Watch,Accessories,1842,3,5526,0,1437.61,Debit Card,BlueDart,Shipped
+ORD1175,2023-06-25,2023-06-27,CUST675,John,Mumbai,Tamil Nadu,Shoes,Fashion,43836,1,43836,5,9904.99,Cash on Delivery,Delhivery,Delivered
+ORD1176,2023-06-26,2023-06-29,CUST676,John,Pune,Delhi,Mobile,Electronics,19716,1,19716,15,2824.61,UPI,Delhivery,Shipped
+ORD1177,2023-06-27,2023-06-30,CUST677,Arif,Pune,Karnataka,Laptop,Electronics,28034,3,84102,5,17127.55,Cash on Delivery,BlueDart,Shipped
+ORD1178,2023-06-28,2023-06-29,CUST678,Suresh,Hyderabad,Tamil Nadu,Mobile,Electronics,14731,2,29462,0,6465.58,Credit Card,BlueDart,Returned
+ORD1179,2023-06-29,2023-07-02,CUST679,Arif,Bangalore,Maharashtra,Laptop,Electronics,32793,3,98379,5,20168.31,Credit Card,XpressBees,Shipped
+ORD1180,2023-06-30,2023-07-01,CUST680,Hari,Bangalore,Delhi,Shoes,Fashion,27114,3,81342,0,12367.78,Debit Card,Delhivery,Cancelled
+ORD1181,2023-07-01,2023-07-04,CUST681,Ravi,Hyderabad,Maharashtra,Shoes,Fashion,36758,4,147032,15,29854.79,Cash on Delivery,Ekart,Shipped
+ORD1182,2023-07-02,2023-07-04,CUST682,John,Bangalore,Maharashtra,Watch,Accessories,28753,3,86259,10,17099.75,UPI,BlueDart,Shipped
+ORD1183,2023-07-03,2023-07-06,CUST683,Megha,Bangalore,Delhi,Mobile,Electronics,42578,1,42578,15,12742.2,UPI,XpressBees,Shipped
+ORD1184,2023-07-04,2023-07-05,CUST684,Megha,Pune,Maharashtra,Camera,Electronics,41252,3,123756,5,34588.22,Net Banking,Ekart,Delivered
+ORD1185,2023-07-05,2023-07-06,CUST685,Hari,Bangalore,Delhi,Watch,Accessories,18488,1,18488,5,3562.2,UPI,Delhivery,Delivered
+ORD1186,2023-07-06,2023-07-08,CUST686,Kavya,Delhi,Karnataka,Mobile,Electronics,31537,1,31537,15,7082.82,Debit Card,XpressBees,Cancelled
+ORD1187,2023-07-07,2023-07-10,CUST687,Fatima,Chennai,Karnataka,Watch,Accessories,12719,1,12719,15,3174.34,Debit Card,BlueDart,Cancelled
+ORD1188,2023-07-08,2023-07-11,CUST688,Arif,Mumbai,Maharashtra,Camera,Electronics,735,2,1470,0,157.25,UPI,Ekart,Delivered
+ORD1189,2023-07-09,2023-07-11,CUST689,Arif,Delhi,Tamil Nadu,Headphones,Accessories,43429,4,173716,5,48464.03,UPI,BlueDart,Cancelled
+ORD1190,2023-07-10,2023-07-13,CUST690,Kavya,Bangalore,Maharashtra,Headphones,Accessories,2408,1,2408,5,655.04,Net Banking,Delhivery,Delivered
+ORD1191,2023-07-11,2023-07-14,CUST691,Kavya,Pune,Maharashtra,Headphones,Accessories,9067,1,9067,15,1736.21,UPI,Ekart,Returned
+ORD1192,2023-07-12,2023-07-13,CUST692,Hari,Hyderabad,Tamil Nadu,Headphones,Accessories,36798,2,73596,10,13117.31,Net Banking,Delhivery,Shipped
+ORD1193,2023-07-13,2023-07-16,CUST693,Hari,Bangalore,Tamil Nadu,Laptop,Electronics,5756,1,5756,5,889.83,Net Banking,Delhivery,Shipped
+ORD1194,2023-07-14,2023-07-17,CUST694,Kavya,Pune,Karnataka,Headphones,Accessories,19519,3,58557,10,11438.25,UPI,XpressBees,Cancelled
+ORD1195,2023-07-15,2023-07-17,CUST695,John,Chennai,Telangana,Camera,Electronics,8662,3,25986,15,2829.23,Credit Card,BlueDart,Delivered
+ORD1196,2023-07-16,2023-07-18,CUST696,Hari,Bangalore,Telangana,Shoes,Fashion,5915,4,23660,15,6398.58,Credit Card,Ekart,Delivered
+ORD1197,2023-07-17,2023-07-21,CUST697,Ravi,Hyderabad,Delhi,Shoes,Fashion,36659,1,36659,0,3925.61,Net Banking,Delhivery,Cancelled
+ORD1198,2023-07-18,2023-07-19,CUST698,Hari,Pune,Karnataka,Laptop,Electronics,44425,2,88850,5,14732.24,UPI,Delhivery,Delivered
+ORD1199,2023-07-19,2023-07-22,CUST699,Arif,Pune,Tamil Nadu,Headphones,Accessories,6451,3,19353,10,5541.11,Credit Card,Ekart,Returned
